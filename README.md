@@ -1,2 +1,2 @@
-# aryatyagi14.github.io
+# PixelHacks.github.io
 PixelHack III  submission
